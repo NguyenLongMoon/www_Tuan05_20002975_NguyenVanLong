@@ -16,7 +16,7 @@ import lombok.Setter;
 public class Address {
     @Column(columnDefinition = "varchar(50)")
     private String city;
-    private CountryCode country;
+    private Country country;
     @Id
     @Column(name = "add_id")
     @GeneratedValue(strategy = GenerationType.IDENTITY)

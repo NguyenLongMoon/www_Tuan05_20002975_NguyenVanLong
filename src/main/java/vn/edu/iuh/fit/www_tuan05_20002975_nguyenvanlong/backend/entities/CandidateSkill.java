@@ -3,7 +3,7 @@ package vn.edu.iuh.fit.www_tuan05_20002975_nguyenvanlong.backend.entities;
 import jakarta.persistence.*;
 import lombok.*;
 import vn.edu.iuh.fit.www_tuan05_20002975_nguyenvanlong.backend.enums.SkillLevel;
-import vn.edu.iuh.fit.backend.ids.CandidateSkillID;
+import vn.edu.iuh.fit.www_tuan05_20002975_nguyenvanlong.backend.ids.CandidateSkillID;
 
 import java.io.Serializable;
 

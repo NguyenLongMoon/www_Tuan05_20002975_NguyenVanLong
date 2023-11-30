@@ -2,7 +2,7 @@ package vn.edu.iuh.fit.www_tuan05_20002975_nguyenvanlong.backend.entities;
 
 import jakarta.persistence.*;
 import lombok.*;
-import vn.edu.iuh.fit.backend.enums.SkillType;
+import vn.edu.iuh.fit.www_tuan05_20002975_nguyenvanlong.backend.enums.SkillType;
 
 import java.util.List;
 
