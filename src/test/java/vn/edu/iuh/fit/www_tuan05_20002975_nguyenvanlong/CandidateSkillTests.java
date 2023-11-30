@@ -5,11 +5,11 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
-import vn.edu.iuh.fit.backend.entities.Candidate;
-import vn.edu.iuh.fit.backend.entities.CandidateSkill;
-import vn.edu.iuh.fit.backend.entities.Skill;
-import vn.edu.iuh.fit.backend.enums.SkillLevel;
-import vn.edu.iuh.fit.backend.services.CandidateSkillServices;
+import vn.edu.iuh.fit.www_tuan05_20002975_nguyenvanlong.backend.entities.Candidate;
+import vn.edu.iuh.fit.www_tuan05_20002975_nguyenvanlong.backend.entities.CandidateSkill;
+import vn.edu.iuh.fit.www_tuan05_20002975_nguyenvanlong.backend.entities.Skill;
+import vn.edu.iuh.fit.www_tuan05_20002975_nguyenvanlong.backend.enums.SkillLevel;
+import vn.edu.iuh.fit.www_tuan05_20002975_nguyenvanlong.backend.services.CandidateSkillServices;
 
 import java.util.List;
 
