@@ -6,8 +6,8 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
-import vn.edu.iuh.fit.backend.entities.Candidate;
-import vn.edu.iuh.fit.backend.repositories.CandidateRepository;
+import vn.edu.iuh.fit.www_tuan05_20002975_nguyenvanlong.backend.entities.Candidate;
+import vn.edu.iuh.fit.www_tuan05_20002975_nguyenvanlong.backend.repositories.CandidateRepository;
 
 import java.util.List;
 import java.util.Optional;

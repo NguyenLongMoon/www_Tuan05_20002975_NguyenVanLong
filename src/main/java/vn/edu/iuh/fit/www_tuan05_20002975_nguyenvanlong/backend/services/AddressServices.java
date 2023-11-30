@@ -3,8 +3,8 @@ package vn.edu.iuh.fit.www_tuan05_20002975_nguyenvanlong.backend.services;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
-import vn.edu.iuh.fit.backend.entities.Address;
-import vn.edu.iuh.fit.backend.repositories.AddressRepository;
+import vn.edu.iuh.fit.www_tuan05_20002975_nguyenvanlong.backend.entities.Address;
+import vn.edu.iuh.fit.www_tuan05_20002975_nguyenvanlong.backend.repositories.AddressRepository;
 
 import java.util.List;
 import java.util.Optional;
